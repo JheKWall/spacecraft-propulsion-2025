@@ -1,0 +1,16 @@
+name,category,subtype,role,maturity,flown,isp_low,isp_high,isp_n_sources,isp_disputed,thrust_low,thrust_high,thrust_n_sources,thrust_disputed,engine_mass_low,engine_mass_high,engine_mass_n_sources,engine_mass_disputed,input_power_low,input_power_high,input_power_n_sources,input_power_disputed,tw_low,tw_high,launch_capable
+RS-25,chemical,Cryogenic Bipropellant,Launch,proven,True,452.0,452.0,1,False,2088208.740859354,2278694.935091346,1,False,3514.43368276,3514.43368276,1,False,,,0,False,60.589571502861205,66.1165462060595,True
+RL10B-2,chemical,Cryogenic Bipropellant,Upper-stage,proven,True,465.5,465.5,1,False,110093.48497867498,110093.48497867498,1,False,301.18533368000004,301.18533368000004,1,False,,,0,False,37.27409638587315,37.27409638587315,True
+Merlin 1D,chemical,Kerolox Bipropellant,Launch,proven,True,311.0,311.0,1,False,716163.6800633,716163.6800633,1,False,,,0,False,,,0,False,,,
+R-4D-11,chemical,Storable Bipropellant,Orbit-raising,proven,True,311.0,315.5,1,False,378.0,511.0,1,False,3.76,4.31,1,False,,,0,False,8.943218758831948,13.858377256162804,True
+MR-103J,chemical,Monopropellant,Attitude Control,proven,True,202.0,224.0,1,False,0.19,1.19,1,False,0.37,0.37,1,False,,,0,False,0.052363805531299025,0.32796278201182016,False
+NSTAR,electric,Gridded Ion,Deepspace Primary,proven,True,1979.0,3127.0,1,False,0.0207,0.0927,1,False,8.33,8.33,1,False,0.518,2.325,1,False,0.0002533988668504576,0.001134786229808571,False
+NEXT-C,electric,Gridded Ion,Deepspace Primary,proven,True,1395.0,4220.0,1,False,0.025,0.235,1,False,12.7,13.5,1,False,0.545,6.853,1,False,0.0001888363357366534,0.001886876457085143,False
+SPT-100,electric,Hall Effect,Station-keeping,proven,True,1220.0,1590.0,1,False,0.0443,0.0965,1,False,,,0,False,0.903,1.5,1,False,,,
+PPS-1350,electric,Hall Effect,Orbit-raising,proven,True,1600.0,1650.0,1,False,0.07,0.088,1,False,,,0,False,0.462,1.19,1,False,,,
+BHT-600,electric,Hall Effect,Station-keeping,proven,True,1400.0,1700.0,1,False,0.039,0.039,1,False,2.6,2.6,1,False,0.2,0.8,2,True,0.0015295743194668923,0.0015295743194668923,False
+NERVA NRX,nuclear,Nuclear Thermal,Upper-stage,proven,False,825.0,825.0,1,False,333000.0,333000.0,1,False,10400.0,10400.0,1,False,,,0,False,3.265052874246636,3.265052874246636,True
+Pewee,nuclear,Nuclear Thermal,Upper-stage,proven,False,865.0,901.0,1,False,111205.5403825,111205.5403825,1,False,,,0,False,,,0,False,,,
+DRACO,nuclear,Nuclear Thermal,Upper-stage,prototype,False,,,0,False,,,0,False,,,0,False,,,0,False,,,
+Gas-core fission,nuclear,Nuclear Thermal (Gas Core),Deepspace Primary,theoretical,False,2000.0,7000.0,1,False,,,0,False,,,0,False,,,0,False,,,
+Antimatter annihilation,nuclear,Antimatter Annihilation,Deepspace Primary,theoretical,False,10000000.0,10000000.0,1,False,,,0,False,,,0,False,,,0,False,,,

@@ -1,0 +1,16 @@
+system_id,name,category,subtype,role,propellant,maturity,flown
+1,RS-25,chemical,Cryogenic Bipropellant,Launch,LOX/LH2,proven,1
+2,RL10B-2,chemical,Cryogenic Bipropellant,Upper-stage,LOX/LH2,proven,1
+3,Merlin 1D,chemical,Kerolox Bipropellant,Launch,LOX/RP-1,proven,1
+4,R-4D-11,chemical,Storable Bipropellant,Orbit-raising,NTO/MMH,proven,1
+5,MR-103J,chemical,Monopropellant,Attitude Control,Hydrazine,proven,1
+6,NSTAR,electric,Gridded Ion,Deepspace Primary,Xenon,proven,1
+7,NEXT-C,electric,Gridded Ion,Deepspace Primary,Xenon,proven,1
+8,SPT-100,electric,Hall Effect,Station-keeping,Xenon,proven,1
+9,PPS-1350,electric,Hall Effect,Orbit-raising,Xenon,proven,1
+10,BHT-600,electric,Hall Effect,Station-keeping,Xenon,proven,1
+11,NERVA NRX,nuclear,Nuclear Thermal,Upper-stage,LH2,proven,0
+12,Pewee,nuclear,Nuclear Thermal,Upper-stage,LH2,proven,0
+13,DRACO,nuclear,Nuclear Thermal,Upper-stage,LH2,prototype,0
+14,Gas-core fission,nuclear,Nuclear Thermal (Gas Core),Deepspace Primary,LH2,theoretical,0
+15,Antimatter annihilation,nuclear,Antimatter Annihilation,Deepspace Primary,Antimatter,theoretical,0

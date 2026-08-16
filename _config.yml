@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title: Spacecraft Propulsion Systems 2025
+description: >-
+  Which mission role is each category of spacecraft propulsion best suited for?
+  15 systems compared on specific impulse, thrust, power, and thrust-to-weight,
+  with every figure individually cited.
+
+# Files that should never be served even if they reach the repo.
+exclude:
+  - secrets/
+  - .pytest_cache/
+  - "**/__pycache__/"
+  - docs/superpowers/
+  - "*.pdf"

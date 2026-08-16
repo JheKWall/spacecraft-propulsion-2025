@@ -1,0 +1,26 @@
+The goal of this study is to determine which mission role each category of spacecraft propulsion
+is best suited for, comparing chemical, electric, and nuclear systems on specific impulse, thrust,
+input power, and thrust-to-weight ratio, and distinguishing proven hardware from prototype and
+theoretical concepts, using published figures current as of 2025.
+
+
+ORIGINAL STATEMENT (retired)
+
+The goal of this study is to determine the most cost-effective spacecraft propulsion system based
+on 2025 statistics.
+
+Retired for two reasons, both established during data collection.
+
+No per-system cost data exists. Across every source consulted, the only dollar figures are
+programme-level history ($7 billion for Project Rover through 1972; $11 million for ORION) and a
+generic $10,000/kg launch cost. There is no cost figure attributable to any individual engine, and
+none exists publicly for the theoretical concepts, several of which have never been built.
+
+The phrase "2025 statistics" was also unsupportable. The original project's figures came from a
+2003 paper, which remains the only source publishing comparable numbers for the theoretical
+systems.
+
+The replacement question is one the data can actually answer, and it is a stronger result than a
+ranking: nothing is best in the abstract, only best for a job.
+
+See docs/data-collection.md for the full reasoning.
