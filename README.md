@@ -25,7 +25,6 @@ This analysis compares 15 spacecraft propulsion systems across three categories 
 | BHT-600 | Electric | Hall effect | Station keeping | Proven | Yes |
 | NERVA NRX | Nuclear | Nuclear thermal | Upper stage | Ground tested | No |
 | Pewee | Nuclear | Nuclear thermal | Upper stage | Ground tested | No |
-| DRACO | Nuclear | Nuclear thermal | Upper stage | Prototype (cancelled 2025) | No |
 | Gas-core fission | Nuclear | Nuclear thermal (gas core) | Deep space primary | Theoretical | No |
 | Antimatter annihilation | Nuclear | Antimatter annihilation | Deep space primary | Theoretical | No |
 
@@ -96,15 +95,12 @@ The chart is presented in two panels because the category divides cleanly in two
 |---|---|---:|---:|---:|
 | NERVA NRX | Ground tested | 333,000 | 825 | 3.27 |
 | Pewee | Ground tested | 111,206 | 901 | not computable |
-| DRACO | Prototype, cancelled | no data | no data | no data |
 | Gas-core fission | Theoretical | no data | 7,000 | no data |
 | Antimatter annihilation | Theoretical | no data | 10,000,000 | no data |
 
 The two systems that were actually built (NERVA NRX and Pewee) achieve roughly double the specific impulse of the best chemical engine while producing thrust in the hundreds of kilonewtons. NERVA NRX computes to a thrust-to-weight ratio of 3.27, which is above the launch threshold. That figure comes from ground testing during the Rover and NERVA programmes; the engine never flew, and there are separate and reasonable objections to operating a fission reactor inside an atmosphere.
 
 The right panel carries no thrust data at all, which is labelled on the chart. The two theoretical systems have a published specific impulse and nothing else.
-
-DRACO is the only nuclear thermal system that was being built to fly. It was cancelled in 2025 having published no performance figure at any source tier, which is why its row is empty. In a dataset where every other value carries a quote, an empty row is itself information and is kept rather than dropped.
 
 ---
 
